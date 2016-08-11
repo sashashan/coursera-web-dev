@@ -1,0 +1,32 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #ffffea;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #3297e9;
+  border-radius: 0;
+  border: 0;
+  height: 75px;
+}
+
+.navbar-brand h1 {
+	color: #ffffea;
+	margin-top: 10px;
+  margin-bottom: 0;
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+/* Desktop - md */
+
+/* Tablet - sm */
+
+/* Mobile - xs */
